@@ -15,7 +15,7 @@ To classify power system faults into categories such as:
 - **Transformer Fault**
 - **Overheating**
 
-…using features like:
+using features like:
 - Voltage (V)
 - Current (A)
 - Power Load (MW)
